@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "tutorial_mod:block/yggdrasil_log"
+      "model": "yggdrasil:block/yggdrasil_log"
     }
   }
 }

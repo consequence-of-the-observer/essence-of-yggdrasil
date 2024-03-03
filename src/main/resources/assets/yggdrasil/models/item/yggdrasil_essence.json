@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorial_mod:item/yggdrasil_essence"
+    "layer0": "yggdrasil:item/yggdrasil_essence"
   }
 }
